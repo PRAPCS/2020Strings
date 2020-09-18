@@ -8,6 +8,7 @@ class Main {
     String halfName;
     String name2;
 
+    // String input from a user
     Scanner input = new Scanner(System.in);
     System.out.println("What is your name? ");
     name = input.nextLine();
